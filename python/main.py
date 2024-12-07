@@ -1,1 +1,2 @@
-print('Sierpinski Carpet')
+import matplotlib.pyplot as plt
+import numpy as np
