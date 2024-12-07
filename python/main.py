@@ -16,6 +16,7 @@ plt.figure(figsize=(8, 8))
 
 # start at (0, 0) with size 1 and depth 4
 sierpinkski_carpet(0, 0, 1, 4)
+
 plt.axis('equal')
 plt.axis('off')
 plt.show()
